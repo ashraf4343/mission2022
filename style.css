@@ -1,0 +1,150 @@
+.secnum1{
+    display: flex;
+    margin: 40px;
+}
+
+
+.half-width{
+    width: 50%;
+    margin: 20px;
+
+
+}
+
+div img{
+
+width: 80%;
+
+}
+.prothomhead{
+    font-size: 40px;
+}
+.button1 {
+    background-color: rgb(240, 92, 65); 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+  }
+
+  .secnum2{
+    font-size: 40px;
+    text-align: center;
+  
+    margin: 40px;
+  }
+  .box1{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: rgb(161, 121, 199);
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    padding: 150px;
+    border-radius: 10px;
+
+  }
+  .box1 img{
+      height: 100px;
+      width: 100px;
+  }
+  .box2{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: pink;
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    padding: 150px;
+    border-radius: 10px;
+
+  }
+  .box2 img{
+      height: 100px;
+      width: 100px;
+  }
+  .box3{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color:rgb(110, 160, 76);
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    padding: 150px;
+    border-radius: 10px;
+
+  }
+  .box3 img{
+      height: 100px;
+      width: 100px;
+  }
+  .secnum3{
+      display: flex;
+      justify-content: center;
+      margin: 40px;
+      
+  }
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    background-color: rgb(118, 169, 182);
+    border-radius: 40px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    border: 2px solid black;
+    padding: 40px;
+  }
+  
+  .price {
+    color: black;
+    font-size: 22px;
+  }
+  
+  .card button {
+    border: none;
+   
+    padding: 12px;
+    
+    
+    text-align: center;
+    
+    width: 100%;
+    font-size: 18px;
+    border-radius: 40px;
+   
+  }
+  
+  footer{
+      height: 150px;
+      width: 100%;
+      color: aliceblue;
+
+      background-color: black;
+      margin: 0;
+      text-align: center;
+     
+
+      
+  }
+  .lej
+  {
+      padding: 10px;
+  }
+  body{
+    font-family: 'Roboto Serif', sans-serif;
+
+  }
+  .samecolor{
+      color: rgb(179, 155, 20);
+  }
+  .firststyle{
+
+    border-left: 10px solid rgb(75, 164, 199);
+    
+  }
+  
+ 
